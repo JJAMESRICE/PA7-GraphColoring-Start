@@ -2,10 +2,6 @@ digraph {
     1 [style=filled, fillcolor = azure2];
     2 [style=filled, fillcolor = azure2];
     3 [style=filled, fillcolor = azure2];
-    4 [style=filled, fillcolor = azure2];
-1 -> 2;
-3 -> 1;
-2 -> 3;
-4 -> 4;
-4 -> 1;
+1 -- 2;
+2 -- 3;
 }
