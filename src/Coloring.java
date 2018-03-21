@@ -94,7 +94,7 @@ public class Coloring {
     }
 
     /**
-     * Set the given node to have the given color.
+     * Set the given node to have the NOCOLOR.
      * 
      * @param nodeID
      * @param c
